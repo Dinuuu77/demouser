@@ -1,0 +1,77 @@
+
+What is devops ?
+
+Build the bridge b/w dev and ops
+reduce manual intervention
+Reduce manual efforts
+Smooth Delivery
+Enhance  collaboratiob b/w dev and ops
+
+Sprint => 2 weeks activity
+We divide the functionality in a such way which can be completed in a sprint
+
+================================================================================
+
+Scrum Team
+Dev Team : Sairam
+Testing Team : Amit
+Product Manager : PC
+Scrum Master : Chandrika
+Ops Team : Shircaras
+
+=================================================
+Tools Selection
+VCS : Git, Bitbucket
+CI/CD : Jenkins and Azure DevOps
+Team collaboration (Not a devops tool ): MS Teams
+Agile : Jira
+Monitoring : Grafana, Nagios
+Cloud : AWS, Azure, GCP
+Containerizarion : Docker & Kubernetes
+Testing Tools : Selenium, Cucumber
+Code Quality : Sonarqube
+Release MT : IBM UCD, XL Deploy
+Configuration MT : Ansible, Terraform
+
+================================================================================
+DevOps Responsibility
+To create and manage the git repo
+
+Build the code 
+Publish the package
+
+==========================================================
+Security Tools
+************************ Code Security tools
+GitRob 
+AWS Secrets
+Paid tools
+Coverity
+ZAP
+
+*********************** Web Level / Denial Attack
+Wapti - penetration Testing
+AWS Scans their entire system like VM
+OWASP
+
+
+
+    Netsparker.
+    Micro Focus Fortify On Demand.
+    Veracode Application Security Platform.
+
+SAST Static Access Security Testing
+DAST Dynamic Access Security Testing
+
+************************ Container Security Tools
+Aqua Scan
+
+
+
+================================================================
+
+https://github.com/
+
+========================== Assignment ======================
+Case Study
+Create an account on github
